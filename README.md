@@ -1,4 +1,4 @@
-# my-vue-app
+# 可视化大屏
 
 ## Project setup
 ```
@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 特点
+
+该可视化大屏运用vue框架进行构建，并且对可视化大屏中的每一部分都进行了模块化的处理，使每一部分的修改更加独立轻松
+
+### 效果图
+
+![图片](效果图.png "效果展示图")
